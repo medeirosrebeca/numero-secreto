@@ -25,13 +25,10 @@
 
 ---
 
-## 📸 Capturas de Tela
+## 📸 Captura de Tela
 
 ### 🏠 Tela Inicial
-<img src="assets/tela-inicial.png" alt="Tela inicial do jogo" width="600">
-
-### 🎲 Sorteio de Números
-<img src="assets/tela-sorteio.png" alt="Tela de sorteio de amigos" width="600">
+<img src="assets/tela_inicial.png" alt="Tela inicial do jogo" width="600">
 
 ---
 
